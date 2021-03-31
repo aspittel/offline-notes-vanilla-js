@@ -1,0 +1,29 @@
+{
+  "name": "vanillajs-starter",
+  "version": "1.0.0",
+  "description": "``` $ npm install $ npx snowpack dev ```",
+  "main": "index.js",
+  "scripts": {
+     "start": "parcel index.html",
+      "build":  "build index.html "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aspittel/vanillajs-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aspittel/vanillajs-starter/issues"
+  },
+  "homepage": "https://github.com/aspittel/vanillajs-starter#readme",
+  "dependencies": {
+    "aws-amplify": "^3.3.26",
+    "typescript": "^4.2.3"
+  },
+  "devDependencies": {
+    "babel-core": "*",
+    "parcel-bundler": "^1.12.5"
+  }
+}
