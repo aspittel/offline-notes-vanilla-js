@@ -1,6 +1,2 @@
-# Vanilla JavaScript Starter
+# Offline Notes using Amplify DataStore
 
-```
-$ npm install
-$ npx run start
-```
